@@ -5,7 +5,7 @@ Allows users to browse products, add items to a cart, and view totals.
 ---
 
 ## 🌐 Live Demo  
-👉 **https://adityagowda.github.io/Shoppy-A-shopping-app/**
+👉 **https://adityagowda.github.io/Shoppy-A-simple-shopping-app/**
 
 ---
 
