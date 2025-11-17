@@ -1,75 +1,64 @@
-# Getting Started with Create React App
+# 🛍️ Shoppy – A Simple Shopping Web App  
+A clean and beginner-friendly shopping application built using **HTML, CSS, and JavaScript**.  
+Allows users to browse products, add items to a cart, and view totals.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 🌐 Live Demo  
+👉 **https://adityagowda.github.io/Shoppy-A-shopping-app/**
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ⚠️ Important Note  
+### ❗ This project is **NOT responsive**  
+It is designed only for **desktop view** and may not work correctly on mobile or tablet devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔥 Badges  
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
+![Responsive](https://img.shields.io/badge/Responsive-No-red)
+![Frontend](https://img.shields.io/badge/Category-Frontend-blueviolet)
+![License](https://img.shields.io/badge/License-Free-orange)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧰 Tech Stack  
+- React.js  
+- React Hooks  
+- LocalStorage  
 
-### `npm run build`
+---
+## 🚀 Features  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 🛒 **Product List UI** — browse items with images, names & prices  
+- 🗂️ **Price Sorting** — sort products by price (low → high or high → low)  
+- 🧩 **Product Cards** — neatly styled cards for each item  
+- ➕ **Add to Cart** — add items to the cart easily  
+- ➖ **Remove From Cart** — remove items anytime  
+- 🔄 **Update Cart Quantity** — increase/decrease item count  
+- 💵 **Payment Page** — shows the total amount of items in the cart  
+- 🧮 **Auto Total Calculation** — cart updates the total price live  
+- 🎨 **Clean UI** — simple layout
+- ⚡ **Fast & Lightweight** — no frameworks used  
 
 
-  // "predeploy": "npm run build",
-    // "deploy": "gh-pages -d build",
-      // // "homepage": "https://AdityaGowda.github.io/Shoppy-A-shopping-app",
+---
+
+## 🧪 Run Locally  
+```bash
+git clone https://github.com/AdityaGowda/Shoppy-A-shopping-app.git
+cd Shoppy-A-shopping-app
+```
+****
+## 👨‍💻 Author  
+**Adithya M R**  
+Frontend Software Engineer — Bangalore, India  
+
+- **GitHub:** [AdityaGowda](https://github.com/AdityaGowda)  
+- **Portfolio:** [adithya-dev.netlify.app](https://adithya-dev.netlify.app/)  
+- **LinkedIn:** [adithya-dev](https://www.linkedin.com/in/adithya-dev/)  
+
+⭐ **If you like my work, consider giving a star!**
+
